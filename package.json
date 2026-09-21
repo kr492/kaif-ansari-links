@@ -1,0 +1,13 @@
+{
+  "name": "kaif-ansari-links",
+  "version": "1.0.0",
+  "description": "Personal link-in-bio page for Kaif Ansari, with an optional self-hosted click analytics backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
